@@ -1,0 +1,159 @@
+body
+{
+  background-color: #303030;
+  color: #ffffff;
+  font-family: 'Lato', sans-serif;
+  font-size: 20px;
+}
+#container
+{
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#container div{
+  border-radius: 13px 13px 13px 13px;
+}
+.rectangle
+{
+  width: 960px;
+  margin: 20px;
+  text-align: center;
+
+}
+.square{
+  width: 50%;
+  float:left;
+
+}
+#logo{
+  float: left;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 70px;
+  width: 600px;
+  text-align: left;
+
+
+}
+#zegar{
+  float: left;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 70px;
+  text-align: left;
+
+
+}
+.tile1{
+  margin: 10px;
+  width: 230px;
+  height: 142px;
+  background-color: #3095D3;
+  float: left;
+
+  text-align: center;
+}
+.tile1:hover{
+  background-color: #2084c2;
+}
+.tile2{
+  margin: 10px;
+  width: 230px;
+  height: 142px;
+  background-color: #666666;
+  float: left;
+
+  text-align: center;
+}
+.tile2:hover{
+  background-color: #555555;
+}
+.tile3{
+  margin: 10px;
+  width: 230px;
+  height: 142px;
+  background-color: #93c748;
+  float: left;
+
+  text-align: center;
+}
+.tile3:hover{
+  background-color: #82b637;
+}
+.tile4{
+  margin: 10px;
+  width: 420px;
+  height: 82px;
+  background-color: #ee5a32;
+
+  text-align: center;
+  font-size: 26px;
+  padding: 30px;
+  line-height: 150%;
+}
+.tile5
+{
+  margin: 10px;
+  width: 420px;
+  height: 244px;
+  background-color: #666666;
+
+  text-align: justify;
+  padding: 30px;
+}
+
+.tumblr{
+  margin: 10px;
+  width: 105px;
+  height: 142px;
+  background-color: #34526f;
+  float: left;
+
+}
+.tumblr:hover{
+  background-color: #23415e;
+}
+.yt{
+  margin: 10px;
+  width: 105px;
+  height: 142px;
+  background-color: #d94348;
+  float: left;
+
+}
+.yt:hover{
+  background-color: #c83237;
+}
+.fb{
+  margin: 10px;
+  width: 105px;
+  height: 142px;
+  background-color: #4668b3;
+  float: left;
+
+}
+.fb:hover{
+  background-color: #3557a2;
+}
+.insta{
+  margin: 10px;
+  width: 105px;
+  height: 142px;
+  background-color: #3f729b;
+  float: left;
+
+}
+.insta:hover{
+  background-color: #2e618a;
+}
+a.tilelink{
+  color: #ffffff;
+  text-decoration: none;
+  display: block;
+  width: 230px;
+  height: 142px;
+
+}
+a.tilelinkhtml5{
+  color: #ffffff;
+  text-decoration: none;
+}
